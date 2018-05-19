@@ -13,3 +13,9 @@ The Line Coding techniques included are :
 9. Modified AMI (with Scrambling techniques)
 
 A GUI is displayed which shows the encoded signal.
+
+
+
+<p align="center">
+  <img src="screenshots/Screenshot from 2018-05-19 23-47-24.png"/>
+</p>
